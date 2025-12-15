@@ -10,8 +10,18 @@ A simple and interactive **To-Do List** web application built with **HTML, CSS, 
 - Responsive and smooth user interface.
 - Organized layout for better productivity.
 
+## Demo
+
+You can try the live demo here: [[Deployed Demo URL](https://baraaalmasri.github.io/To-do-project/)](#) *(optional)*
+
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/username/repo-name.git](https://github.com/baraaAlmasri/To-do-project.git)
