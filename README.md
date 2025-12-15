@@ -4,7 +4,7 @@ A simple and interactive **To-Do List** web application built with **HTML, CSS, 
 
 ## Features
 
-- Add new tasks easily.
+- Add new tasks easily.س
 - Delete tasks when completed.
 - Mark tasks as done.
 - Responsive and smooth user interface.
@@ -12,7 +12,7 @@ A simple and interactive **To-Do List** web application built with **HTML, CSS, 
 
 ## Demo
 
-You can try the live demo here: [[Deployed Demo URL](https://baraaalmasri.github.io/To-do-project/)](#) *(optional)*
+You can try the live demo here: [[Deployed Demo URL](https://baraaalmasri.github.io/To-do-project/)](#) 
 
 ## Technologies Used
 
@@ -25,3 +25,4 @@ You can try the live demo here: [[Deployed Demo URL](https://baraaalmasri.github
 1. Clone the repository:
    ```bash
    git clone [https://github.com/username/repo-name.git](https://github.com/baraaAlmasri/To-do-project.git)
+   
